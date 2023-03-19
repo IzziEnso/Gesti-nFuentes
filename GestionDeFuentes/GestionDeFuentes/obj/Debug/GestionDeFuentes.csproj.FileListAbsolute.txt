@@ -1,0 +1,11 @@
+C:\Users\isabe\source\repos\GestionDeFuentes\GestionDeFuentes\obj\Debug\GestionDeFuentes.csproj.AssemblyReference.cache
+C:\Users\isabe\source\repos\GestionDeFuentes\GestionDeFuentes\obj\Debug\GestionDeFuentes.csproj.SuggestedBindingRedirects.cache
+C:\Users\isabe\source\repos\GestionDeFuentes\GestionDeFuentes\obj\Debug\GestionDeFuentes.Form1.resources
+C:\Users\isabe\source\repos\GestionDeFuentes\GestionDeFuentes\obj\Debug\GestionDeFuentes.Properties.Resources.resources
+C:\Users\isabe\source\repos\GestionDeFuentes\GestionDeFuentes\obj\Debug\GestionDeFuentes.csproj.GenerateResource.cache
+C:\Users\isabe\source\repos\GestionDeFuentes\GestionDeFuentes\obj\Debug\GestionDeFuentes.csproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\GestionDeFuentes\GestionDeFuentes\bin\Debug\GestionDeFuentes.exe.config
+C:\Users\isabe\source\repos\GestionDeFuentes\GestionDeFuentes\bin\Debug\GestionDeFuentes.exe
+C:\Users\isabe\source\repos\GestionDeFuentes\GestionDeFuentes\bin\Debug\GestionDeFuentes.pdb
+C:\Users\isabe\source\repos\GestionDeFuentes\GestionDeFuentes\obj\Debug\GestionDeFuentes.exe
+C:\Users\isabe\source\repos\GestionDeFuentes\GestionDeFuentes\obj\Debug\GestionDeFuentes.pdb
